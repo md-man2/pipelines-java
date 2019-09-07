@@ -31,3 +31,5 @@ Microsoft and any contributors reserve all others rights, whether under their re
 or trademarks, whether by implication, estoppel or otherwise.
 
 **small change here**
+
+[![Build Status](https://dev.azure.com/rschmit1/PipelineQuickStart/_apis/build/status/md-man2.pipelines-java?branchName=master)](https://dev.azure.com/rschmit1/PipelineQuickStart/_build/latest?definitionId=1&branchName=master)
